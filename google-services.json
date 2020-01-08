@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "394262168736",
+    "firebase_url": "https://pushpush-10520.firebaseio.com",
+    "project_id": "pushpush-10520",
+    "storage_bucket": "pushpush-10520.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394262168736:android:8e59939cf6b12f1887f5c5",
+        "android_client_info": {
+          "package_name": "com.albsoft.pushgnu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394262168736-u54foklbnni6qbqgqg4bm6rdk20n3bcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADklP34vscis9oByOCTDj_WjAQ-d-jXaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394262168736-u54foklbnni6qbqgqg4bm6rdk20n3bcc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
